@@ -1,0 +1,5 @@
+{
+  "name": "QuickQR Creator",
+  "description": "A lightweight, privacy-focused QR code generator that runs entirely in your browser. Customize colors, sizes, and logos instantly.",
+  "requestFramePermissions": []
+}
